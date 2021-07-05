@@ -1,5 +1,4 @@
 import re
-from numpy.lib.function_base import append
 import requests
 import numpy as np
 from requests.api import get
