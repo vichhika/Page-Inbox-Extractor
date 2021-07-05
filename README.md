@@ -18,6 +18,7 @@ cd Page-Inbox-Extractor
 ```bash
 pip install -r requirements.txt
 ```
+Download [chromedriver](https://chromedriver.chromium.org/downloads) which compatible with your chrome browser version. extract file downloaded to ```Page-Inbox-Extractor/chrome-driver```
 
 ## Usage
 ```bash
